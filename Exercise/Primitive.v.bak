@@ -1,0 +1,1 @@
+primitive XOR2(DOUT,X1,X2);
